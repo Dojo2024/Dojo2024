@@ -1,4 +1,4 @@
-## Hi there 👋 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/debojyoti-das-81154b258/)
+## Hi there 👋 [![LinkedIn](https://shields.io)](https://linkedin.com)
 
 
 <!--
